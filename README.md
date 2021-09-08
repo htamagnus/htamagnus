@@ -4,7 +4,7 @@
 - 🤓 Estudando HTML5, CSS3, Python e Javascript
 - 😝 Me chame por Hta
 - 😎 Pronomes: ela/dela
-- 👾 Programadora front-end em ascenção!
+- 👾 Programadora front-end em ascenção
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
 
  <div>
