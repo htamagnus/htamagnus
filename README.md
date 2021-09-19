@@ -17,7 +17,6 @@
   <img align="center" alt="hta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="hta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="hta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Sonserina" src="http://pa1.narvii.com/6855/676dec2122896533777995397797ae25bb50c90d_00.gif">
 
 </div>
   
