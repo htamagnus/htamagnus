@@ -1,7 +1,7 @@
 ### Oii, eu sou a Ágatha!
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 🤓 Estudando HTML5, CSS3, Python e Javascript
+- 🤓 Estudando HTML5, CSS3, e Python
 - 😝 Me chame por Hta
 - 😎 Pronomes: ela/dela
 - 👾 Programadora front-end em ascenção
