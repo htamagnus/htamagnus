@@ -6,6 +6,7 @@
 - 😎 Pronomes: ela/dela
 - 👾 Programadora front-end em ascenção
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
+- 💻 https://www.linkedin.com/in/agathamagnus/
 
  <div>
   <a href="https://github.com/htamagnus">
