@@ -3,7 +3,6 @@
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 🤓 Estudando CSS3, JavaScript, TypeScript, Python, React e Django
 - 😝 Me chame por Hta
-- 😎 Pronomes: ela/dela
 - 👾 Programadora front-end em ascenção
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
 - 💻 https://www.linkedin.com/in/agathamagnus/
