@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas
 - 👾 Programadora front-end
-- 🤓 Estudando CSS3, JavaScript, TypeScript, React e Django
+- 🤓 Estudando React, NextJS e VueJS
 - 😝 Me chame por Hta
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
 - 💻 https://www.linkedin.com/in/agathamagnus/
