@@ -1,7 +1,5 @@
 ### Oii, eu sou a Ágatha!
-
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
-- 👾 Programadora front-end
+- 👾 Front-end Developer
 - 🤓 Estudando React, NextJS e VueJS
 - 😝 Me chame por Hta
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
