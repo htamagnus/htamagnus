@@ -1,5 +1,5 @@
 ### Oii, eu sou a Ágatha!
-- 👾 Front-end Developer
+- 👾 Full Stack Developer
 - 🤓 Estudando React, NextJS e React Native
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
 - 💻 https://www.linkedin.com/in/agathamagnus/
