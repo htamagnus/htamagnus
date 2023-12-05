@@ -1,6 +1,6 @@
 ### Oii, eu sou a Ágatha!
 - 👾 Full Stack Developer
-- 🤓 Estudando React, NextJS e Typescript
+- 🤓 Estudando Typescript e NodeJS
 - 📫 Contate-me no email: agathamagnusg@hotmail.com
 - 💻 https://www.linkedin.com/in/agathamagnus/
 
