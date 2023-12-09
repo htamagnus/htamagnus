@@ -1,8 +1,6 @@
 ### Oii, eu sou a Ágatha!
 - 👾 Full Stack Developer
 - 🤓 Estudando Typescript e NodeJS
-- 📫 Contate-me no email: agathamagnusg@hotmail.com
-- 💻 https://www.linkedin.com/in/agathamagnus/
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
