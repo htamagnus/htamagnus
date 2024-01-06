@@ -2,15 +2,13 @@
 👾 Full Stack Developer
 <br>
 💻 Estudando Typescript e NodeJS
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
   <a href="https://github.com/htamagnus">
-
 </div>
   <div style="display: inline_block"><br>
 
-  <h2>Stacks</h2>
+  <h3>Stacks</h3>
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
