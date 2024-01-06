@@ -10,6 +10,8 @@
 </div>
   <div style="display: inline_block"><br>
 
+  <h2>Stacks</h2>
+  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
