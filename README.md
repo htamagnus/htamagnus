@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/htamagnus">
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
 
   <h3>Stacks</h3>
   
