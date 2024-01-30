@@ -1,4 +1,3 @@
-### Oii, eu sou a Ágatha!
 👾 Full Stack Developer
 <br>
 💻 Estudando Typescript e NodeJS
