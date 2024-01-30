@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
   <img src="https://img.shields.io/badge/typescript-4D4577?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/> 
   <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+  <img src="https://img.shields.io/badge/nestjs-F73C7B?logo=nestjs&style=for-the-badge&logoColor=F2F2F2"/>
   <img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
   <img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
   <img src="https://img.shields.io/badge/sass-393359?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
