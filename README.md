@@ -8,22 +8,23 @@
   <div style="display: inline_block">
 
   <h3>Stacks</h3>
-  <img src="https://img.shields.io/badge/figma-F73C7B?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/typescript-4D4577?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/> 
-  <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/nestjs-F73C7B?logo=nestjs&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/sass-393359?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/mysql-4D4577?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/> 
-  <img src="https://img.shields.io/badge/mongodb-F73C7B?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/python-4D4577?logo=python&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/markdown-393359?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
-  <img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/> 
+<img src="https://img.shields.io/badge/figma-F73C7B?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-4D4577?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/> 
+<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/nestjs-F73C7B?logo=nestjs&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-393359?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/mysql-4D4577?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/> 
+<img src="https://img.shields.io/badge/mongodb-F73C7B?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/docker-4D4577?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/prisma-393359?logo=prisma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+
 
 
 <!---
