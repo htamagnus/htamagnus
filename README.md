@@ -1,13 +1,20 @@
-👾 Full Stack Developer
-<br>
-💻 Estudando Typescript e NodeJS
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> &nbsp; A full-stack developer passionate about coding with a quirky sense of humor and an interest in tech culture, who loves exploring new technologies and building cool stuff.
+
+ 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="30" height="30" /> &nbsp;  Always reading a good technology book and searching for new things to do.
+
+
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="Thought Balloon" width="30" height="30" /> &nbsp;  Actually focused on backend development with NodeJS and NestJS.
+
+---
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
   <a href="https://github.com/htamagnus">
 </div>
   <div style="display: inline_block">
 
-  <h3>Stacks</h3>
+  <h2>Stacks</h2>
 <img src="https://img.shields.io/badge/figma-F73C7B?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
