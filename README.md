@@ -1,10 +1,10 @@
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> &nbsp; A full-stack developer passionate about coding with a quirky sense of humor and an interest in tech culture, who loves exploring new technologies and building cool stuff.
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="26" height="26" /> &nbsp; A full-stack developer passionate about coding with a quirky sense of humor and an interest in tech culture, who loves exploring new technologies and building cool stuff.
 
  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="30" height="30" /> &nbsp;  Always reading a good technology book and searching for new things to do.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="26" height="26" /> &nbsp;  Always reading a good technology book and searching for new things to do.
 
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="Thought Balloon" width="30" height="30" /> &nbsp;  Actually focused on backend development with NodeJS and NestJS.
+<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="Thought Balloon" width="26" height="26" /> &nbsp;  Actually focused on backend development with NodeJS and NestJS.
 
 ---
 
