@@ -30,6 +30,8 @@
 <img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/next.js-393359?logo=next.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/angular-4D4577?logo=angular&style=for-the-badge&logoColor=F2F2F2"/> 
+
 
 
 
