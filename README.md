@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/prisma-393359?logo=prisma&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/nestjs-393359?logo=nestjs&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/next.js-393359?logo=next.js&style=for-the-badge&logoColor=F2F2F2"/>
 
 
 
