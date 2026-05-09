@@ -5,6 +5,13 @@
 
 <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="Thought Balloon" width="24" height="24" /> &nbsp;  Actually focused on backend development with NodeJS and NestJS.
 
+<div align="center">
+  <a href="https://www.credly.com/badges/8b25e9e7-d5c4-45b5-8687-a8f978fc26d1/public_url">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" />
+  </a>
+</div>
+
+
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -28,7 +35,6 @@
 <img src="https://img.shields.io/badge/next.js-393359?logo=next.js&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/angular-4D4577?logo=angular&style=for-the-badge&logoColor=F2F2F2"/> 
 <img src="https://img.shields.io/badge/aws-F73C7B?logo=aws&style=for-the-badge&logoColor=F2F2F2"/>
-
 
 
 
