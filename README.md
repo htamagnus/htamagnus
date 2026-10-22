@@ -36,5 +36,5 @@ Backend-focused full-stack developer from Brazil. At [Squid](https://github.com/
 ### Let's talk
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge)](https://www.linkedin.com/in/agathamagnus/)
-[![Email](https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2)](mailto:agathamagnus18@gmail.com)
+[![Email](https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2)](mailto:agathamagnus.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/portfolio-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2)](https://agathamagnusdev-portfolio.vercel.app)
