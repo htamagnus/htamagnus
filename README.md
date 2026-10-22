@@ -1,81 +1,40 @@
  ![capa hta](https://github.com/user-attachments/assets/911accac-db57-432d-8dbb-8b708d5e65e0)
- 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="24" height="24" /> A full-stack developer passionate about coding with a quirky sense of humor and an interest in tech culture, who loves exploring new technologies and building cool stuff.
- 
 
-<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="Thought Balloon" width="24" height="24" /> &nbsp;  Actually focused on backend development with NodeJS and NestJS.
+## Hi, I'm Ágatha <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving hand" width="28" height="28" />
 
-<div align="center">
-  <a href="https://www.credly.com/badges/8b25e9e7-d5c4-45b5-8687-a8f978fc26d1/public_url">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" />
-  </a>
-</div>
+Backend-focused full-stack developer from Brazil. At [Squid](https://github.com/squidit) I build and maintain the Node.js + TypeScript microservices behind a creator and influencer marketing platform.
 
+- 🛠️ **Day to day:** APIs, workers and ETL jobs with NestJS and Hapi, on top of MongoDB, MySQL and PostgreSQL, using queues (BullMQ, Pub/Sub) and running on Kubernetes in Google Cloud.
+- 🎨 **On the side:** websites and web apps with Next.js, Tailwind and Supabase, for clients and for myself.
+- 🚴 **Latest personal project:** [Velox](https://github.com/htamagnus/api-velox), a cycling route planner that combines your real Strava pace with Google Maps routes to estimate time, calories and elevation.
+- ☁️ **Certified:** [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8b25e9e7-d5c4-45b5-8687-a8f978fc26d1/public_url).
 
----
+### Tech stack
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<div>
-  <a href="https://github.com/htamagnus">
-</div>
-  <div style="display: inline_block">
+| | |
+|---|---|
+| **Backend** | ![Node.js](https://img.shields.io/badge/node.js-F73C7B?logo=nodedotjs&style=for-the-badge&logoColor=F2F2F2) ![TypeScript](https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2) ![NestJS](https://img.shields.io/badge/nestjs-F73C7B?logo=nestjs&style=for-the-badge&logoColor=F2F2F2) ![Hapi](https://img.shields.io/badge/hapi-F73C7B?style=for-the-badge) ![Zod](https://img.shields.io/badge/zod-F73C7B?logo=zod&style=for-the-badge&logoColor=F2F2F2) |
+| **Data** | ![MongoDB](https://img.shields.io/badge/mongodb-4D4577?logo=mongodb&style=for-the-badge&logoColor=F2F2F2) ![MySQL](https://img.shields.io/badge/mysql-4D4577?logo=mysql&style=for-the-badge&logoColor=F2F2F2) ![PostgreSQL](https://img.shields.io/badge/postgresql-4D4577?logo=postgresql&style=for-the-badge&logoColor=F2F2F2) ![Redis](https://img.shields.io/badge/redis-4D4577?logo=redis&style=for-the-badge&logoColor=F2F2F2) ![Drizzle](https://img.shields.io/badge/drizzle-4D4577?logo=drizzle&style=for-the-badge&logoColor=F2F2F2) |
+| **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/google%20cloud-393359?logo=googlecloud&style=for-the-badge&logoColor=F2F2F2) ![AWS](https://img.shields.io/badge/aws-393359?style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-393359?logo=docker&style=for-the-badge&logoColor=F2F2F2) ![Kubernetes](https://img.shields.io/badge/kubernetes-393359?logo=kubernetes&style=for-the-badge&logoColor=F2F2F2) ![GitHub Actions](https://img.shields.io/badge/github%20actions-393359?logo=githubactions&style=for-the-badge&logoColor=F2F2F2) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-F73C7B?logo=nextdotjs&style=for-the-badge&logoColor=F2F2F2) ![React](https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2) ![Angular](https://img.shields.io/badge/angular-F73C7B?logo=angular&style=for-the-badge&logoColor=F2F2F2) ![Tailwind CSS](https://img.shields.io/badge/tailwind-F73C7B?logo=tailwindcss&style=for-the-badge&logoColor=F2F2F2) ![Supabase](https://img.shields.io/badge/supabase-F73C7B?logo=supabase&style=for-the-badge&logoColor=F2F2F2) |
 
-  <h2>Stacks</h2>
-<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-4D4577?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/> 
-<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/nestjs-F73C7B?logo=nestjs&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sass-393359?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/mysql-4D4577?logo=mysql&style=for-the-badge&logoColor=F2F2F2"/> 
-<img src="https://img.shields.io/badge/mongodb-F73C7B?logo=mongodb&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/docker-4D4577?logo=docker&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/prisma-393359?logo=prisma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/next.js-393359?logo=next.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/angular-4D4577?logo=angular&style=for-the-badge&logoColor=F2F2F2"/> 
-<img src="https://img.shields.io/badge/aws-F73C7B?logo=aws&style=for-the-badge&logoColor=F2F2F2"/>
+### Featured projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [Velox API](https://github.com/htamagnus/api-velox) | Estimates ride time, distance, calories and elevation from your real Strava pace and Google Maps routes | NestJS · TypeORM · PostgreSQL · AWS |
+| [Velox Web](https://github.com/htamagnus/web-velox) | Installable PWA to plan rides on a map, built on top of the Velox API | Next.js · Tailwind · Google Maps |
+| [Portfolio](https://agathamagnusdev-portfolio.vercel.app) | My personal site, with projects and contact | Next.js · Tailwind · Framer Motion |
 
+### GitHub activity
 
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=htamagnus&theme=dracula&hide_border=false" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htamagnus&theme=dracula&hide_progress=true" alt="Top languages" />
+</p>
 
-<!---
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
--->
+### Let's talk
 
-</div>
-<br>
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=htamagnus&theme=dracula&hide_border=false" />
-    </td>
-    <td>
-<!--      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htamagnus&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htamagnus&theme=dracula&hide_progress=true" />
-<!--             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htamagnus&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=donut" /> -->
-<!--       <img src="https://github-readme-stats.vercel.app/api?username=htamagnus&theme=dracula&show_icons=true" /> -->
-    </td>
-  </tr>
-</table>
-
-  ##
-  
-  <div>
-<!--   <a href="https://www.instagram.com/agathamagnuss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/agathamagnus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://open.spotify.com/user/2132zypy2iomd4rpaz52xkmby?si=1dcf8efaf09f42f7" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> -->
-  <a href="https://www.linkedin.com/in/agathamagnus/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-  <a href="mailto:agathamagnus18@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
-  
-  </div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge)](https://www.linkedin.com/in/agathamagnus/)
+[![Email](https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2)](mailto:agathamagnus18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2)](https://agathamagnusdev-portfolio.vercel.app)
