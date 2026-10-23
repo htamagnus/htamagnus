@@ -24,13 +24,6 @@ Backend-focused full-stack developer from Brazil. At [Squid](https://github.com/
   <a href="https://agathamagnusdev-portfolio.vercel.app"><img src="assets/project-portfolio.svg" width="49%" alt="Portfolio: my personal site" /></a>
 </p>
 
-<img src="assets/title-activity.svg" height="63" alt="GitHub activity" />
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=htamagnus&background=FCEEE3&border=000000&stroke=000000&ring=FF90E8&fire=1A1A1A&currStreakNum=1A1A1A&sideNums=1A1A1A&currStreakLabel=1A1A1A&sideLabels=1A1A1A&dates=4B5563&border_radius=0" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htamagnus&hide_progress=true&bg_color=FCEEE3&title_color=1A1A1A&text_color=1A1A1A&border_color=000000&border_radius=0" alt="Top languages" />
-</p>
-
 <img src="assets/title-contact.svg" height="63" alt="Let's talk" />
 
 <p>
