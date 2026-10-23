@@ -1,9 +1,6 @@
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Agatha Magnus, Full Stack Developer, back-end focused" />
 </p>
-<p align="center">
-  <img src="assets/marquee.svg" width="100%" alt="" />
-</p>
 
 <img src="assets/title-about.svg" height="63" alt="About me" />
 
